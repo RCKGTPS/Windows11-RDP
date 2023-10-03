@@ -1,0 +1,3 @@
+wget -O run.sh https://raw.githubusercontent.com/ImJanindu/Windows11-RDP/main/run.sh
+chmod +x run.sh
+./run.sh
